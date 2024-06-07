@@ -85,7 +85,7 @@ const SearchPage = () => {
         </button>
       </div>
 
-      {error && <p className="text-red-500">{error}</p>}
+      
 
       {loading ? (
         <div className="flex justify-center self-center">
